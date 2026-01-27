@@ -78,7 +78,7 @@ entries:
         url: https://keybase.io/communitycharts/pgp_keys.asc
     apiVersion: v2
     appVersion: 2.4.5
-    created: "2026-01-27T21:55:07.024622+08:00"
+    created: "2026-01-27T22:32:50.491052+08:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -191,7 +191,7 @@ entries:
         url: https://keybase.io/communitycharts/pgp_keys.asc
     apiVersion: v2
     appVersion: 2.4.5
-    created: "2026-01-27T21:55:07.014586+08:00"
+    created: "2026-01-27T22:32:50.481617+08:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -233,4 +233,4 @@ entries:
     urls:
     - https://jjnyn.github.io/helm-charts/repo/n8n-1.16.25.tgz
     version: 1.16.25
-generated: "2026-01-27T21:55:07.004338+08:00"
+generated: "2026-01-27T22:32:50.470921+08:00"
